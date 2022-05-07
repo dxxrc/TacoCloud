@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="TacoRun">
+    <output-path>$PROJECT_DIR$/out/artifacts/TacoRun</output-path>
+    <root id="archive" name="TacoRun.war" />
+  </artifact>
+</component>
